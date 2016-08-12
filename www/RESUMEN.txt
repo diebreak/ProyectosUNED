@@ -1,0 +1,25 @@
+Buenas tardes.
+Resumen del trabajo mostrado:
+Se trabajo en plugins para agilizar el proyecto por realizar en el editor de codigo a futuro, se trabajo con html y css, se utilizo bootstrap
+y se intento familiriazarse con el mismo, ademas se aprendio php basico en cuanto a creacion de varibles y trabajo con arreglos, se investigo 
+sobre github, git para cargar trabajos, tambien se investigo sobre netvizz y el creador de codigo cifrado sha1 y como aplicarlo al codigo php. Se aprendio WAMP y
+como ligarlo con php, para poder accesar a la base datos mySQL desde una pagina web.
+
+Acerca del trabajo encargado:
+*Se realizo el mantenimiento
+*Se creo la pagina web
+*La pagina web interactua con la base de datos
+
+Cosas que no se realizaron:
+*Condicionales a la hora de ingreso de datos 
+*Mejorar apariencia de la pagina
+*Mejorar "modificar" para modificar los datos correctamente
+
+Cosas por realizar:
+*Investigacion sobre Json
+*Ampliar conocimiento en Bootstrap y el lenguaje de programacion php
+*Familiarizarse con github
+*Investigacion API facebook
+*Intentar corregir pagina web realizada
+
+
